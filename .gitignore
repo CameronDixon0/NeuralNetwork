@@ -1,0 +1,31 @@
+# Build folders
+build/
+
+# Compiled binaries
+NeuralNet
+*.exe
+*.out
+*.o
+*.obj
+*.a
+*.so
+*.dll
+*.dylib
+
+# CMake files
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+
+# Trained network files
+trainedNetwork*
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor files
+*.swp
+*.swo
+*.vscode/
