@@ -1,21 +1,21 @@
 # NeuralNet
 
-A simple neural network implementation in C++, inspired by 3Blue1Brown's [Deep Learning](https://www.youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr) series.
+A simple neural network implementation in C++, inspired by 3Blue1Brown's [Deep Learning](https://youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi&si=J-RySAsyjDbob1bH) series.
 
 ## Overview
-This project demonstrates the fundamentals of neural networks, including forward and backward propagation, using the MNIST dataset for handwritten digit recognition. The code is designed for clarity and educational purposes, closely following the concepts and visualizations from 3Blue1Brown's videos.
+I recently came across 3Blue1Brown's series on Deep Learning. This inspired me to implement my own Neural Network from scratch in C++.
 
 ## Features
 - Feedforward neural network from scratch in C++
+- Backpropogation using gradient descent
+- Adjustable and flexible network sizes and shapes
+- Simple custom linear algebra operations
 - Trains on the MNIST dataset
-- Simple matrix math utilities
-- Minimal dependencies
 
 ## Project Structure
 - `main.cpp` — Entry point and training loop
 - `nnet/` — Neural network and math utilities
 - `mnist/` — MNIST dataset loader and files
-- `build/` — Build artifacts (ignored by git)
 
 ## Getting Started
 ### Prerequisites
