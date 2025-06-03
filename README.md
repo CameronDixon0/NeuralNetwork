@@ -25,7 +25,7 @@ I recently came across 3Blue1Brown's series on Deep Learning. This inspired me t
 ### Build Instructions
 1. Clone the repository:
    ```sh
-   git clone <repo-url>
+   git clone https://github.com/CameronDixon0/NeuralNetwork
    cd NeuralNet
    ```
 2. Build the project using CMake:
