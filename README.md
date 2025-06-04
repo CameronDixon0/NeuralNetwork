@@ -3,7 +3,7 @@
 A simple neural network implementation in C++, inspired by 3Blue1Brown's [Deep Learning](https://youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi&si=J-RySAsyjDbob1bH) series.
 
 ## Overview
-I recently came across 3Blue1Brown's series on Deep Learning. This inspired me to implement my own Neural Network from scratch in C++.
+I recently came across 3Blue1Brown's series on Deep Learning. This inspired me to implement my own multilayer perception from scratch in C++.
 
 ## Features
 - Feedforward neural network from scratch in C++
