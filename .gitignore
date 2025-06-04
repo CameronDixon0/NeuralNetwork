@@ -24,6 +24,7 @@ trainedNetwork*
 # OS files
 .DS_Store
 Thumbs.db
+.cache/
 
 # Editor files
 *.swp
