@@ -25,8 +25,8 @@ I recently came across 3Blue1Brown's series on Deep Learning. This inspired me t
 ### Build Instructions
 1. Clone the repository:
    ```sh
-   git clone <repo-url>
-   cd NeuralNet
+   git clone https://github.com/CameronDixon0/NeuralNetwork
+   cd NeuralNetwork
    ```
 2. Build the project using CMake:
    ```sh
@@ -46,6 +46,3 @@ The MNIST dataset files are expected in the `mnist/` directory. Download them fr
 ## References
 - [3Blue1Brown: Deep Learning](https://youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi&si=J-RySAsyjDbob1bH)
 - [MNIST Database](http://yann.lecun.com/exdb/mnist/)
-
-## License
-MIT License
